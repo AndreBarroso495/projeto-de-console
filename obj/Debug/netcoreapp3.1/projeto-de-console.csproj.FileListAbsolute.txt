@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.exe
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.deps.json
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.runtimeconfig.json
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.runtimeconfig.dev.json
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.dll
+C:\Users\fic\Desktop\projeto-de-console\bin\Debug\netcoreapp3.1\projeto-de-console.pdb
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.AssemblyInfo.cs
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.dll
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.pdb
+C:\Users\fic\Desktop\projeto-de-console\obj\Debug\netcoreapp3.1\projeto-de-console.genruntimeconfig.cache
